@@ -13,3 +13,13 @@ Build a method #bubble_sort that takes an array and returns a sorted array. It m
 > bubble_sort([4,3,78,2,0,2])
 => [0,2,2,3,4,78]
 ```
+
+
+### How to try
+
+- clone the repo
+- got to de repo's folder on your machine
+- this repo solution is using Ruby 3.1.2, if you are using rbenv: `rbenv local 3.1.2`
+- run `bundle install`, this allows you to run specs
+- solution propoused is at lib/
+- to run specs: `rspec`

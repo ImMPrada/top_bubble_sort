@@ -14,6 +14,8 @@ Build a method #bubble_sort that takes an array and returns a sorted array. It m
 => [0,2,2,3,4,78]
 ```
 
+![image](https://user-images.githubusercontent.com/26731448/189138255-692e0dce-93ad-4fec-b067-a927ed5df8d0.png)
+
 
 ### How to try
 
